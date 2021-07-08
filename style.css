@@ -1,0 +1,35 @@
+*{
+    font-family: sans-serif;
+}
+body{
+   background-color: rgb(255, 255, 255); 
+   
+}
+
+    
+.register{
+    width:  500px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(27, 121, 121);
+    box-shadow: 10px 10px 5px grey
+    border 1px solid black;
+    border-radius: 48px;
+    margin: 0 auto;
+    
+}
+.title{
+    margin: 6px;
+    padding: 146px;
+}
+.bottom-button{
+    margin-top: 20px;
+}
+.bottom-button button{
+    height: 35px;
+    border:1px solid gray;
+    border-radius: 6px;
+}
+.bottom-button button:hover{
+    cursor: pointer;
+    background-color: lightblue;
+}
